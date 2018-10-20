@@ -22,7 +22,7 @@ $(call inherit-product, device/lge/d850/device.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := d850
-PRODUCT_NAME := full_d850
+PRODUCT_NAME := havoc_d850
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-D850
 PRODUCT_MANUFACTURER := LGE
