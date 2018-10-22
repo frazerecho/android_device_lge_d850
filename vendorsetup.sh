@@ -1,0 +1,2 @@
+add_lunch_combo havoc_d850-userdebug
+add_lunch_combo havoc_d850-eng
